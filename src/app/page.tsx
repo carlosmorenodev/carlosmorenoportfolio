@@ -80,7 +80,7 @@ export default function Home() {
           </section>
 
           <section className="lg:col-span-8 space-y-8 text-center">
-            <h2 className="text-xl text-blue-500 border-b border-blue-900/30 pb-2 uppercase tracking-widest">
+            <h2 className="text-xl text-blue-500 text-left border-b border-blue-900/30 pb-2 uppercase tracking-widest">
               Proyectos Seleccionados
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
