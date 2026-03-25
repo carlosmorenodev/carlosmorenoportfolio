@@ -87,4 +87,12 @@ export const proyectos = [
     liveLink:"https://carlosmm-twitter-clone.vercel.app/",
     img: "/proyectos/twitter-clone.png",
   },
+  {
+    titulo: "Tiend Ecommerce",
+    desc: "Tienda Ecommerce programado con NextJs",
+    tech: ["NextJs"],
+    githubLink: "https://github.com/carlosmorenodev/next-tienda-ecommerce",
+    liveLink:"https://next-tienda-ecommerce.vercel.app/",
+    img: "/proyectos/ecommerce-nextjs.png",
+  },
 ];
