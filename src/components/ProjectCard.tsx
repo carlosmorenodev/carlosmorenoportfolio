@@ -49,7 +49,7 @@ const ProjectCard = () => {
               target="_blank"
               className="text-s text-stone-400 hover:text-white underline underline-offset-4"
             >
-              Ver vivo
+              Ver en vivo
             </a>
           </div>
         </div>
