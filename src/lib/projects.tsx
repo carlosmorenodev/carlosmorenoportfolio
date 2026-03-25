@@ -88,7 +88,7 @@ export const proyectos = [
     img: "/proyectos/twitter-clone.png",
   },
   {
-    titulo: "Tiend Ecommerce",
+    titulo: "Tienda Ecommerce",
     desc: "Tienda Ecommerce programado con NextJs",
     tech: ["NextJs"],
     githubLink: "https://github.com/carlosmorenodev/next-tienda-ecommerce",
