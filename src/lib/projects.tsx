@@ -4,7 +4,7 @@ export const proyectos = [
     desc: "Motor de narrativa interactiva basado en nodos para escritores de RPG.",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/lightbox-assassins-creed",
-    liveLink:"https://carlosmorenodev.github.io/lightbox-assassins-creed/",
+    liveLink: "https://carlosmorenodev.github.io/lightbox-assassins-creed/",
     img: "/proyectos/LightboxAC.png",
   },
   {
@@ -12,7 +12,7 @@ export const proyectos = [
     desc: "Simulador de terminal con efectos CRT y sistema de archivos dinámico.",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/animated-cards",
-    liveLink:"https://carlosmorenodev.github.io/animated-cards/",
+    liveLink: "https://carlosmorenodev.github.io/animated-cards/",
     img: "/proyectos/animated-card.png",
   },
   {
@@ -20,7 +20,7 @@ export const proyectos = [
     desc: "Blog desarrollado con Astro",
     tech: ["Astro"],
     githubLink: "https://github.com/carlosmorenodev/lightbox-assassins-creed",
-    liveLink:"https://carlosmorenodev.github.io/lightbox-assassins-creed/",
+    liveLink: "https://carlosmorenodev.github.io/lightbox-assassins-creed/",
     img: "/proyectos/blog-astro.png",
   },
   {
@@ -28,7 +28,7 @@ export const proyectos = [
     desc: "Blog desarrollado con Astro",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/minijuego-numeros",
-    liveLink:"https://carlosmorenodev.github.io/minijuego-numeros/",
+    liveLink: "https://carlosmorenodev.github.io/minijuego-numeros/",
     img: "/proyectos/juegonumeros.png",
   },
   {
@@ -36,7 +36,7 @@ export const proyectos = [
     desc: "Blog desarrollado con Astro",
     tech: ["react"],
     githubLink: "https://github.com/carlosmorenodev/aplicacion-tareas",
-    liveLink:"https://carlosmorenodev.github.io/aplicacion-tareas/",
+    liveLink: "https://carlosmorenodev.github.io/aplicacion-tareas/",
     img: "/proyectos/tasklist.png",
   },
   {
@@ -44,7 +44,7 @@ export const proyectos = [
     desc: "Blog desarrollado con Astro",
     tech: ["HTML", "CSS3", "Javascript"],
     githubLink: "https://github.com/carlosmorenodev/daysgone-web",
-    liveLink:"https://carlosmorenodev.github.io/juego21/",
+    liveLink: "https://carlosmorenodev.github.io/juego21/",
     img: "/proyectos/daysgoneweb.png",
   },
   {
@@ -52,15 +52,23 @@ export const proyectos = [
     desc: "Juego de preguntas y respuestas de Dragon Ball",
     tech: ["React"],
     githubLink: "https://github.com/carlosmorenodev/dragonball-quiz",
-    liveLink:"https://carlosmorenodev.github.io/dragonball-quiz/",
+    liveLink: "https://carlosmorenodev.github.io/dragonball-quiz/",
     img: "/proyectos/dragon-ball-quiz.png",
+  },
+  {
+    titulo: "Málaga Weather Dashboard",
+    desc: "Juego de preguntas y respuestas de Dragon Ball",
+    tech: ["React", "Astro"],
+    githubLink: "https://github.com/carlosmorenodev/malaga-weather-dashboard",
+    liveLink: "https://malaga-weather-dashboard.vercel.app/",
+    img: "/proyectos/malaga-weather-dashboard.png",
   },
   {
     titulo: "Weather app",
     desc: "Aplicación del tiempo",
     tech: ["React"],
     githubLink: "https://github.com/carlosmorenodev/weather-app",
-    liveLink:"https://carlosmorenodev.github.io/weather-app/",
+    liveLink: "https://carlosmorenodev.github.io/weather-app/",
     img: "/proyectos/weather-app.png",
   },
   {
@@ -68,7 +76,7 @@ export const proyectos = [
     desc: "Juego de cartas programado con Javascript",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/juego21",
-    liveLink:"https://carlosmorenodev.github.io/juego21/",
+    liveLink: "https://carlosmorenodev.github.io/juego21/",
     img: "/proyectos/juego21.png",
   },
   {
@@ -76,7 +84,7 @@ export const proyectos = [
     desc: "Formulario de inicio de sesión",
     tech: ["React"],
     githubLink: "https://github.com/carlosmorenodev/form-react",
-    liveLink:"https://carlosmorenodev.github.io/form-react/",
+    liveLink: "https://carlosmorenodev.github.io/form-react/",
     img: "/proyectos/formulario-react.png",
   },
   {
@@ -84,7 +92,7 @@ export const proyectos = [
     desc: "Clon de Twitter (X) programado con NextJs",
     tech: ["NextJs"],
     githubLink: "https://github.com/carlosmorenodev/twitter-clone",
-    liveLink:"https://carlosmm-twitter-clone.vercel.app/",
+    liveLink: "https://carlosmm-twitter-clone.vercel.app/",
     img: "/proyectos/twitter-clone.png",
   },
   {
@@ -92,7 +100,7 @@ export const proyectos = [
     desc: "Tienda Ecommerce programado con NextJs",
     tech: ["NextJs"],
     githubLink: "https://github.com/carlosmorenodev/next-tienda-ecommerce",
-    liveLink:"https://next-tienda-ecommerce.vercel.app/",
+    liveLink: "https://next-tienda-ecommerce.vercel.app/",
     img: "/proyectos/ecommerce-nextjs.png",
   },
 ];
