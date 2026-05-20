@@ -40,6 +40,14 @@ export const proyectos = [
     img: "/proyectos/tasklist.png",
   },
   {
+    titulo: "Emojireto",
+    desc: "Juego de acertijos visuales con emojis. +300 niveles, pistas personalizadas y diseño moderno. ¡Descifra el código! Construido con Next.js, TypeScript y Tailwind.",
+    tech: ["Next.js", "React", "Typescript", "Tailwind"],
+    githubLink: "https://github.com/carlosmorenodev/emojireto",
+    liveLink: "https://emojireto.vercel.app",
+    img: "/proyectos/emojireto.png",
+  },
+  {
     titulo: "Web Days Gone",
     desc: "Blog desarrollado con Astro",
     tech: ["HTML", "CSS3", "Javascript"],
