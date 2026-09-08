@@ -4,7 +4,7 @@
 
 ## 💻 Tecnologías Utilizadas
 
-Este portafolio ha sido desarrollado utilizando las últimas tecnologías del ecosistema moderno de desarrollo web:
+Esta portafolio ha sido desarrollado utilizando las últimas tecnologías del ecosistema moderno de desarrollo web:
 
 - **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
 - **Librería UI:** [React 19](https://react.dev/)
