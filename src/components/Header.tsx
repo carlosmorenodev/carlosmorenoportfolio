@@ -14,7 +14,8 @@ const Header = () => {
                     Carlos Moreno Martín
                 </h1>
             </div>
-            <div className="flex gap-4">
+            <div className="flex items-center gap-4">
+                <a href="/" className="text-black text-2xl sm:text-3xl hover:text-blue-400 transition-colors bg-blue-500 px-2 rounded hover:text-white">Inicio</a>
                 <a
                     href="https://www.linkedin.com/in/carlosmorenomartindev/"
                     target="_blank"
