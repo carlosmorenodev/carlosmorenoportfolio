@@ -19,7 +19,7 @@ const ProjectCard = () => {
           {/* Contenedor de información con padding */}
           <div className="p-6 flex flex-col grow">
             {/* 1. Título: Siempre arriba */}
-            <h3 className="text-white text-xl text-center mb-1 group-hover:text-blue-400 transition-colors h-[60px] flex items-center justify-center">
+            <h3 className="text-white text-xl text-center mb-1 group-hover:text-blue-400 transition-colors h-15 flex items-center justify-center">
               {p.titulo}
             </h3>
             <p>{p.description}</p>
