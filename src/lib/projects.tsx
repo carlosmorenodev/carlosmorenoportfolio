@@ -72,7 +72,7 @@ export const proyectos = [
     githubLink: "https://github.com/carlosmorenodev/malaga-weather-dashboard",
     liveLink: "https://malaga-weather-dashboard.vercel.app/",
     img: "/proyectos/malaga-weather-dashboard.png",
-    description: "Aplicación meteorológica que permite consultar el tiempo actual y la previsión mediante una API externa. Presenta la información de forma visual e intuitiva, con una interfaz responsive adaptada a diferentes dispositivos.s"
+    description: "Aplicación meteorológica que permite consultar el tiempo actual y la previsión mediante una API externa. Presenta la información de forma visual e intuitiva, con una interfaz responsive adaptada a diferentes dispositivos."
   },
   /* {
     titulo: "Weather app",
