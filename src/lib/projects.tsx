@@ -1,44 +1,45 @@
 export const proyectos = [
-  {
+  /* {
     titulo: "Assassins creed Lightbox",
     desc: "Motor de narrativa interactiva basado en nodos para escritores de RPG.",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/lightbox-assassins-creed",
     liveLink: "https://carlosmorenodev.github.io/lightbox-assassins-creed/",
     img: "/proyectos/LightboxAC.png",
-  },
-  {
+  }, */
+  /* {
     titulo: "Colección de Cartas animadas",
     desc: "Simulador de terminal con efectos CRT y sistema de archivos dinámico.",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/animated-cards",
     liveLink: "https://carlosmorenodev.github.io/animated-cards/",
     img: "/proyectos/animated-card.png",
-  },
+  }, */
   {
     titulo: "Blog con Astro",
     desc: "Blog desarrollado con Astro",
     tech: ["Astro"],
-    githubLink: "https://github.com/carlosmorenodev/lightbox-assassins-creed",
-    liveLink: "https://carlosmorenodev.github.io/lightbox-assassins-creed/",
+    githubLink: "https://github.com/carlosmorenodev/astro-blog",
+    liveLink: "https://astro-blog-cmm.vercel.app/",
     img: "/proyectos/blog-astro.png",
+    description: "Blog desarrollado con Astro, centrado en el rendimiento y la generación de páginas estáticas. Organiza los artículos por categorías y etiquetas, con páginas de contenido dinámico, fechas de publicación y un diseño responsive optimizado para la lectura."
   },
-  {
+  /* {
     titulo: "Juego con números",
     desc: "Blog desarrollado con Astro",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/minijuego-numeros",
     liveLink: "https://carlosmorenodev.github.io/minijuego-numeros/",
     img: "/proyectos/juegonumeros.png",
-  },
-  {
+  }, */
+  /* {
     titulo: "Aplicación de tareas",
     desc: "Blog desarrollado con Astro",
     tech: ["react"],
     githubLink: "https://github.com/carlosmorenodev/aplicacion-tareas",
     liveLink: "https://carlosmorenodev.github.io/aplicacion-tareas/",
     img: "/proyectos/tasklist.png",
-  },
+  }, */
   {
     titulo: "Emojireto",
     desc: "Juego de acertijos visuales con emojis. +300 niveles, pistas personalizadas y diseño moderno. ¡Descifra el código! Construido con Next.js, TypeScript y Tailwind.",
@@ -46,23 +47,24 @@ export const proyectos = [
     githubLink: "https://github.com/carlosmorenodev/emojireto",
     liveLink: "https://emojireto.vercel.app",
     img: "/proyectos/emojireto.png",
+    description: "Juego interactivo de acertijos visuales con más de 300 retos, pistas y una interfaz adaptable a dispositivos móviles."
   },
-  {
+  /* {
     titulo: "Web Days Gone",
     desc: "Blog desarrollado con Astro",
     tech: ["HTML", "CSS3", "Javascript"],
     githubLink: "https://github.com/carlosmorenodev/daysgone-web",
     liveLink: "https://carlosmorenodev.github.io/juego21/",
     img: "/proyectos/daysgoneweb.png",
-  },
-  {
+  }, */
+  /* {
     titulo: "Dragon Ball Quiz",
     desc: "Juego de preguntas y respuestas de Dragon Ball",
     tech: ["React"],
     githubLink: "https://github.com/carlosmorenodev/dragonball-quiz",
     liveLink: "https://carlosmorenodev.github.io/dragonball-quiz/",
     img: "/proyectos/dragon-ball-quiz.png",
-  },
+  }, */
   {
     titulo: "Málaga Weather Dashboard",
     desc: "Juego de preguntas y respuestas de Dragon Ball",
@@ -70,39 +72,40 @@ export const proyectos = [
     githubLink: "https://github.com/carlosmorenodev/malaga-weather-dashboard",
     liveLink: "https://malaga-weather-dashboard.vercel.app/",
     img: "/proyectos/malaga-weather-dashboard.png",
+    description: "Aplicación meteorológica que permite consultar el tiempo actual y la previsión mediante una API externa. Presenta la información de forma visual e intuitiva, con una interfaz responsive adaptada a diferentes dispositivos.s"
   },
-  {
+  /* {
     titulo: "Weather app",
     desc: "Aplicación del tiempo",
     tech: ["React"],
     githubLink: "https://github.com/carlosmorenodev/weather-app",
     liveLink: "https://carlosmorenodev.github.io/weather-app/",
     img: "/proyectos/weather-app.png",
-  },
-  {
+  }, */
+  /* {
     titulo: "Juego del 21",
     desc: "Juego de cartas programado con Javascript",
     tech: ["Vanilla Javascript"],
     githubLink: "https://github.com/carlosmorenodev/juego21",
     liveLink: "https://carlosmorenodev.github.io/juego21/",
     img: "/proyectos/juego21.png",
-  },
-  {
+  }, */
+  /* {
     titulo: "Formulario con validación",
     desc: "Formulario de inicio de sesión",
     tech: ["React"],
     githubLink: "https://github.com/carlosmorenodev/form-react",
     liveLink: "https://carlosmorenodev.github.io/form-react/",
     img: "/proyectos/formulario-react.png",
-  },
-  {
-    titulo: "Clone de Twitter",
+  }, */
+  /* {
+    titulo: "Clon de Twitter",
     desc: "Clon de Twitter (X) programado con NextJs",
     tech: ["NextJs"],
     githubLink: "https://github.com/carlosmorenodev/twitter-clone",
     liveLink: "https://carlosmm-twitter-clone.vercel.app/",
     img: "/proyectos/twitter-clone.png",
-  },
+  }, */
   {
     titulo: "Tienda Ecommerce",
     desc: "Tienda Ecommerce programado con NextJs",
@@ -110,5 +113,6 @@ export const proyectos = [
     githubLink: "https://github.com/carlosmorenodev/next-tienda-ecommerce",
     liveLink: "https://next-tienda-ecommerce.vercel.app/",
     img: "/proyectos/ecommerce-nextjs.png",
+    description: "Tienda online desarrollada con Next.js, con una interfaz moderna y adaptable a distintos dispositivos. El proyecto explora la creación de componentes reutilizables y la organización de una aplicación web orientada a la experiencia de compra."
   },
 ];

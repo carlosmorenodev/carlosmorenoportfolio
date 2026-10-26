@@ -13,16 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Carlos Moreno Martín | Dentro del DOM",
+  title: "Carlos Moreno Martín | Desarrollador Frontend especializado en React y Next.js",
   description:
-    "Desarrollador Fullstack especializado en Next.js, TypeScript y arquitecturas interactivas. Creador de Nexus Engine.",
+    "Desarrollador Fullstack especializado en Next.js, TypeScript y arquitecturas interactivas.",
   keywords: [
     "Fullstack Developer",
     "Next.js",
     "React",
     "TypeScript",
     "Carlos Moreno Martín",
-    "Nexus Engine",
   ],
   authors: [{ name: "Carlos Moreno Martín" }],
   openGraph: {

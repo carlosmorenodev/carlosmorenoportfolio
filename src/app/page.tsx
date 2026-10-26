@@ -9,15 +9,20 @@ const habilidades = [
   {
     cat: "Frontend",
     items: [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
       "Astro",
       "React",
       "NextJs",
-      "Tailwind CSS",
-      "Bootstrap",
+
+
       "TypeScript",
     ],
   },
-  { cat: "Backend", items: ["PHP", "MySQL", "Laravel"] },
+  { cat: "Estilos", items: ["Tailwind CSS", "Bootstrap"] },
+  { cat: "Backend", items: ["PHP", "MySQL", "Laravel", "Supabase"] },
+  { cat: "Herramientas", items: ["GIT", "Github", "Vercel", "Consumo de APIs REST"] },
 ];
 
 export default function Home() {
@@ -61,6 +66,20 @@ export default function Home() {
               alt="Carlos Moreno Martín"
               className="w-sm"
             />
+            <div>
+              <h2 className="text-xl text-blue-500 border-b border-blue-900/30 pb-2 uppercase tracking-widest">Sobre mí</h2>
+              <p className="text-sm/6 mb-2">Soy desarrollador frontend y estoy orientando mi carrera profesional al desarrollo de aplicaciones web modernas.</p>
+              <p className="text-sm/6 mb-2">Trabajo principalmente con JavaScript, React y Next.js. A través de mis proyectos personales he practicado el desarrollo de interfaces responsive, el consumo de APIs, la gestión de estado y la integración con servicios como Supabase.</p>
+              <p className="text-sm/6 mb-2">Me gusta aprender construyendo proyectos funcionales, resolver problemas y mejorar el código de forma progresiva.</p>
+              <p className="text-sm/6 mb-6">Actualmente busco mi primera oportunidad profesional como desarrollador web, preferiblemente en Málaga o en remoto desde España, donde pueda aportar mis conocimientos y seguir aprendiendo dentro de un equipo.</p>
+              <div className="flex gap-2 justify-center">
+                <a href="https://github.com/carlosmorenodev" target="_blank"><button className="bg-blue-500 text-black border py-1.5 px-2 cursor-pointer hover:text-blue-400  hover:bg-blue-950/20 hover:border-blue-900/50">Ver proyectos</button></a>
+                <a href="mailto: carlosmorenomartindev@gmail.com"><button className="bg-blue-500 text-black border py-1.5 px-2 cursor-pointer hover:text-blue-400  hover:bg-blue-950/20 hover:border-blue-900/50">Contactar</button></a>
+                <a href="/curriculum-carlos-moreno.pdf" target="_blank"><button className="bg-blue-500 text-black border py-1.5 px-2 cursor-pointer hover:text-blue-400  hover:bg-blue-950/20 hover:border-blue-900/50">Descargar CV</button></a>
+              </div>
+
+
+            </div>
 
             <h2 className="text-xl text-blue-500 border-b border-blue-900/30 pb-2 uppercase tracking-widest">
               Habilidades
@@ -83,7 +102,7 @@ export default function Home() {
             <h2 className="text-xl text-blue-500 text-left border-b border-blue-900/30 pb-2 uppercase tracking-widest">
               Proyectos Seleccionados
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <ProjectCard />
             </div>
             <a
